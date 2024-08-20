@@ -1,0 +1,64 @@
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.json
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.dev.json
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi..FB8E64B4.Up2Date
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.genruntimeconfig.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.deps.json
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.json
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.dev.json
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi..FB8E64B4.Up2Date
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.genruntimeconfig.cache
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.deps.json
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.json
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.dev.json
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi..FB8E64B4.Up2Date
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\User\Desktop\BankApiFinder\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.genruntimeconfig.cache
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.deps.json
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.json
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.runtimeconfig.dev.json
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.dll
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.DataAccess.pdb
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi..FB8E64B4.Up2Date
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.DataAccess\obj\Debug\netcoreapp3.1\BankApi.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\bin\Debug\netcoreapp3.1\BankApi.DtoLayer.deps.json
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\bin\Debug\netcoreapp3.1\BankApi.DtoLayer.dll
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\bin\Debug\netcoreapp3.1\BankApi.DtoLayer.pdb
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\obj\Debug\netcoreapp3.1\BankApi.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\obj\Debug\netcoreapp3.1\BankApi.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\obj\Debug\netcoreapp3.1\BankApi.DtoLayer.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\obj\Debug\netcoreapp3.1\BankApi.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\obj\Debug\netcoreapp3.1\BankApi.DtoLayer.dll
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.DtoLayer\obj\Debug\netcoreapp3.1\BankApi.DtoLayer.pdb

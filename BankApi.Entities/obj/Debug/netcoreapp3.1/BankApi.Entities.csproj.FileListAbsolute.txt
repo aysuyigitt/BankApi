@@ -1,0 +1,36 @@
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.deps.json
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Source\Repos\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.deps.json
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.deps.json
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfo.cs
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\User\Desktop\BankApiFinder\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.deps.json
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\bin\Debug\netcoreapp3.1\BankApi.Entities.pdb
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfoInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.AssemblyInfo.cs
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.dll
+C:\Users\AYSU YİĞİT\Desktop\Bank\BankApi.Entities\obj\Debug\netcoreapp3.1\BankApi.Entities.pdb

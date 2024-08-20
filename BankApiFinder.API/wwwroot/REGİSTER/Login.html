@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BANKACILIK</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="Existing Login Form Widget Responsive, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates, Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design">
+	<script type="application/x-javascript">
+		addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); }
+	</script>
+	<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+	<link href="//fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+</head>
+<body>
+	<h1>GİRİŞ FORMU</h1>
+	<div class="w3layoutscontaineragileits">
+		<h2>GİRİŞ</h2>
+		<form id="loginForm" action="#" method="post">
+			<input type="text" id="Username" name="Username" placeholder="Kullanıcı Adı" required="">
+			<input type="password" id="Password" name="Password" placeholder="Şifre" required="">
+			<div class="aitssendbuttonw3ls">
+				<input type="submit" value="GİRİŞ">
+				<p> <a class="w3_play_icon1" href="#small-dialog1"> Yeni Hesap Oluştur</a></p>
+				<div class="clear"></div>
+			</div>
+		</form>
+	</div>
+
+	<!-- for register popup -->
+	<div id="small-dialog1" class="mfp-hide">
+		<div class="contact-form1">
+			<div class="contact-w3-agileits">
+				<h3>Yeni Kayıt Formu</h3>
+				<form id="registerForm" action="#" method="post">
+					<div class="form-sub-w3ls">
+						<input placeholder="Kullanıcı Adı" type="text" id="RegisterUsername" name="Username" required="">
+						<div class="icon-agile">
+							<i class="fa fa-user" aria-hidden="true"></i>
+						</div>
+					</div>
+					<div class="form-sub-w3ls">
+						<input placeholder="Email" class="mail" type="email" id="RegisterEmail" name="Email" required="">
+						<div class="icon-agile">
+							<i class="fa fa-envelope-o" aria-hidden="true"></i>
+						</div>
+					</div>
+					<div class="form-sub-w3ls">
+						<input placeholder="Şifre" type="password" id="RegisterPassword" name="Password" required="">
+						<div class="icon-agile">
+							<i class="fa fa-unlock-alt" aria-hidden="true"></i>
+						</div>
+					</div>
+					<div class="form-sub-w3ls">
+						<input placeholder="Şifreyi Tekrarla" type="password" id="RegisterConfirmPassword" name="ConfirmPassword" required="">
+						<div class="icon-agile">
+							<i class="fa fa-unlock-alt" aria-hidden="true"></i>
+						</div>
+					</div>
+					<div class="form-sub-w3ls">
+						<input type="tel" id="RegisterPhoneNumber" name="PhoneNumber" placeholder="Telefon Numarası" pattern="[0-9]{10}" required="">
+						<div class="icon-agile">
+							<i class="fa fa-phone" aria-hidden="true"></i>
+						</div>
+					</div>
+
+					<div class="login-check">
+						<label class="checkbox"><input type="checkbox" name="checkbox" checked="">Kullanıcı Hizmetleri ve Şartlarını Kabul Ediyorum</label>
+					</div>
+					<div class="submit-w3l">
+						<input type="submit" value="Kayıt Ol" id="registerButton">
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+	<script>
+		$(document).ready(function () {
+			$('.w3_play_icon,.w3_play_icon1,.w3_play_icon2').magnificPopup({
+				type: 'inline',
+				fixedContentPos: false,
+				fixedBgPos: true,
+				overflowY: 'auto',
+				closeBtnInside: true,
+				preloader: false,
+				midClick: true,
+				removalDelay: 300,
+				mainClass: 'my-mfp-zoom-in'
+			});
+		});
+
+		document.getElementById('registerForm').addEventListener('submit', async function (e) {
+			e.preventDefault();
+
+			const username = document.getElementById('RegisterUsername').value;
+			const user_email = document.getElementById('RegisterEmail').value;
+			const password = document.getElementById('RegisterPassword').value;
+			const confirmPassword = document.getElementById('RegisterConfirmPassword').value;
+			const user_phone_number = document.getElementById('RegisterPhoneNumber').value;
+
+			// Şifre doğrulaması kontrolü
+			if (password !== confirmPassword) {
+				alert("Şifreler uyuşmuyor!");
+				return;
+			}
+
+			// Kayıt bilgilerini bir nesne olarak oluşturun
+			const registerData = {
+				Username: username,
+				Email: user_email,
+				Password: password,
+				PhoneNumber: user_phone_number
+			};
+
+			// POST isteği göndererek kayıt bilgilerini sunucuya gönderin
+			const response = await fetch('http://localhost:35066/api/register', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json'
+				},
+				body: JSON.stringify(registerData)
+			});
+
+			if (response.ok) {
+				alert('Kayıt başarıyla gerçekleştirildi.');
+			} else {
+				alert('Kayıt sırasında bir hata oluştu.');
+			}
+		});
+	</script>
+	<script>
+		document.getElementById('loginForm').addEventListener('submit', async function (e) {
+			e.preventDefault();
+
+			const username = document.getElementById('Username').value;
+			const password = document.getElementById('Password').value;
+
+			const response = await fetch('http://localhost:35066/api/auth/login', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/json'
+				},
+				body: JSON.stringify({ Username: username, Password: password })
+			});
+			if (response.ok) {
+				const data = await response.json();
+				localStorage.setItem('token', data.token);
+				window.location.href = 'http://localhost:35066/REGISTER/Transfer.html'; // Transfer sayfasına yönlendirme
+			} else {
+				alert('Geçersiz Kullanıcı Adı ve Şifre');
+			}
+		});
+	</script>
+</body>
+</html>
